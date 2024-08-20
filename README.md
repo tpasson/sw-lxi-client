@@ -1,4 +1,4 @@
-# LXI Reader
+# LXI Client
 
 This Python script allows you to connect to a lab multimeter or other lab equipment over a TCP/IP network using the LXI protocol and retrieve a DC voltage measurement. The script communicates with the multimeter using SCPI commands over a specified IP address and port. This script can easily be extended and adapted to retrieve other types of measurements or control different functions of the lab equipment. For example, by modifying the SCPI commands, you could measure current, resistance, or frequency, or even configure the instrument's settings. Additionally, you can extend the script to log data over time, automate calibration routines, or integrate with other data acquisition systems for more complex experiments.
 
